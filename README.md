@@ -17,18 +17,18 @@ Em vez de cada sistema manter sua própria cópia da tabela de CEP (com mais de 
        └─────────────────┼─────────────────┘
                          │ X-API-Key
                          ▼
-                ┌─────────────────┐
-                │   CEP API      │
+                ┌──────────────────┐
+                │   CEP API        │
                 │  (FastAPI/Python)│
-                └────────┬────────┘
+                └────────┬─────────┘
                          │
                          ▼
                 ┌─────────────────┐
                 │   PostgreSQL    │
-                │ 1,2M CEPs      │
-                │ 11k cidades    │
-                │ 27 estados     │
-                │ 254 países     │
+                │ 1,2M CEPs       │
+                │ 11k cidades     │
+                │ 27 estados      │
+                │ 254 países      │
                 └─────────────────┘
 ```
 

@@ -6,6 +6,7 @@ services:
     image: cep-api:latest
     container_name: cep-api
     restart: unless-stopped
+    command: ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "8000", "--root-path", "/api/cep"]
     ports:
       - "${API_PORT:-11050}:8000"
     environment:

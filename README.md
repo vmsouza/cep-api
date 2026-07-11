@@ -77,20 +77,17 @@ cp .env.example .env
 # 3. Inicie os containers
 docker compose up -d --build
 
-# 4. Baixe os dados públicos de CEP, cidades, estados e países
-./download_data.sh
-
-# 5. Popule o banco de dados
+# 4. Popule o banco de dados (dados já inclusos no repo)
 python3 seed_data.py
 
-# 6. Teste
-curl -H "X-API-Key: changeme-dev-key" \
+# 5. Teste
+curl -H "X-API-Key: sua-chave-aqui" \
   http://localhost:11050/api/cep/92030210
 ```
 
-> **Dica:** Se já tiver os dados em outro diretório:
+> **Dica:** Para exportar dados de um banco existente para arquivos:
 > ```bash
-> DATA_DIR=/caminho/para/seu/data python3 seed_data.py
+> python3 export_data.py
 > ```
 
 ### Usando sem Docker (desenvolvimento)
@@ -158,7 +155,7 @@ Parâmetros da busca (`POST`):
 
 ```bash
 # Variável para facilitar
-KEY="changeme-dev-key"
+KEY="sua-chave-aqui"
 API="http://localhost:11050"
 
 # --- CEP ---
@@ -338,11 +335,18 @@ cep-api/
 │   │   └── paises.py        # Endpoints de países
 │   └── middleware/
 │       └── api_key.py       # Middleware de autenticação via X-API-Key
+├── data/                    # Dados públicos (CEP, cidades, estados, países)
+│   ├── paises.json
+│   ├── estados.json
+│   ├── cidades.json
+│   ├── tipos_logradouros.ndjson
+│   └── correios_ceps.ndjson.gz
 ├── db/
 │   └── init.sql             # Schema SQL executado na primeira inicialização
 ├── docker-compose.yml       # Orquestração dos containers
 ├── Dockerfile               # Imagem da API
 ├── download_data.sh         # Script para baixar dados públicos
+├── export_data.py           # Script para exportar dados do banco para arquivos
 ├── seed_data.py             # Script para popular o banco
 ├── requirements.txt         # Dependências Python
 ├── .env.example             # Exemplo de configuração

@@ -1,0 +1,326 @@
+{"codigo": 1, "nome": "Acesso", "sigla": ""}
+{"codigo": 2, "nome": "Adro", "sigla": ""}
+{"codigo": 4, "nome": "Alameda", "sigla": ""}
+{"codigo": 5, "nome": "Alto", "sigla": ""}
+{"codigo": 7, "nome": "Atalho", "sigla": ""}
+{"codigo": 8, "nome": "Avenida", "sigla": ""}
+{"codigo": 10, "nome": "Belvedere", "sigla": ""}
+{"codigo": 11, "nome": "Beco", "sigla": ""}
+{"codigo": 12, "nome": "Bloco", "sigla": ""}
+{"codigo": 13, "nome": "Bosque", "sigla": ""}
+{"codigo": 14, "nome": "Boulevard", "sigla": ""}
+{"codigo": 15, "nome": "Baixa", "sigla": ""}
+{"codigo": 16, "nome": "Cais", "sigla": ""}
+{"codigo": 17, "nome": "Caminho", "sigla": ""}
+{"codigo": 20, "nome": "Conjunto", "sigla": ""}
+{"codigo": 21, "nome": "Colônia", "sigla": ""}
+{"codigo": 22, "nome": "Corredor", "sigla": ""}
+{"codigo": 23, "nome": "Campo", "sigla": ""}
+{"codigo": 24, "nome": "Córrego", "sigla": ""}
+{"codigo": 27, "nome": "Desvio", "sigla": ""}
+{"codigo": 28, "nome": "Distrito", "sigla": ""}
+{"codigo": 30, "nome": "Escada", "sigla": ""}
+{"codigo": 31, "nome": "Estrada", "sigla": ""}
+{"codigo": 32, "nome": "Estação", "sigla": ""}
+{"codigo": 33, "nome": "Estádio", "sigla": ""}
+{"codigo": 36, "nome": "Favela", "sigla": ""}
+{"codigo": 37, "nome": "Fazenda", "sigla": ""}
+{"codigo": 39, "nome": "Fonte", "sigla": ""}
+{"codigo": 40, "nome": "Feira", "sigla": ""}
+{"codigo": 43, "nome": "Forte", "sigla": ""}
+{"codigo": 45, "nome": "Galeria", "sigla": ""}
+{"codigo": 46, "nome": "Granja", "sigla": ""}
+{"codigo": 50, "nome": "Ilha", "sigla": ""}
+{"codigo": 52, "nome": "Jardim", "sigla": ""}
+{"codigo": 53, "nome": "Ladeira", "sigla": ""}
+{"codigo": 54, "nome": "Largo", "sigla": ""}
+{"codigo": 55, "nome": "Lagoa", "sigla": ""}
+{"codigo": 56, "nome": "Loteamento", "sigla": ""}
+{"codigo": 59, "nome": "Morro", "sigla": ""}
+{"codigo": 60, "nome": "Monte", "sigla": ""}
+{"codigo": 62, "nome": "Paralela", "sigla": ""}
+{"codigo": 63, "nome": "Passeio", "sigla": ""}
+{"codigo": 64, "nome": "Pátio", "sigla": ""}
+{"codigo": 65, "nome": "Praça", "sigla": ""}
+{"codigo": 67, "nome": "Parada", "sigla": ""}
+{"codigo": 70, "nome": "Praia", "sigla": ""}
+{"codigo": 71, "nome": "Prolongamento", "sigla": ""}
+{"codigo": 72, "nome": "Parque", "sigla": ""}
+{"codigo": 73, "nome": "Passarela", "sigla": ""}
+{"codigo": 74, "nome": "Passagem", "sigla": ""}
+{"codigo": 76, "nome": "Ponte", "sigla": ""}
+{"codigo": 77, "nome": "Quadra", "sigla": ""}
+{"codigo": 79, "nome": "Quinta", "sigla": ""}
+{"codigo": 81, "nome": "Rua", "sigla": ""}
+{"codigo": 82, "nome": "Ramal", "sigla": ""}
+{"codigo": 87, "nome": "Recanto", "sigla": ""}
+{"codigo": 88, "nome": "Retiro", "sigla": ""}
+{"codigo": 89, "nome": "Reta", "sigla": ""}
+{"codigo": 90, "nome": "Rodovia", "sigla": ""}
+{"codigo": 91, "nome": "Retorno", "sigla": ""}
+{"codigo": 92, "nome": "Sítio", "sigla": ""}
+{"codigo": 94, "nome": "Servidão", "sigla": ""}
+{"codigo": 95, "nome": "Setor", "sigla": ""}
+{"codigo": 96, "nome": "Subida", "sigla": ""}
+{"codigo": 97, "nome": "Trincheira", "sigla": ""}
+{"codigo": 98, "nome": "Terminal", "sigla": ""}
+{"codigo": 99, "nome": "Trevo", "sigla": ""}
+{"codigo": 100, "nome": "Travessa", "sigla": ""}
+{"codigo": 101, "nome": "Via", "sigla": ""}
+{"codigo": 103, "nome": "Viaduto", "sigla": ""}
+{"codigo": 104, "nome": "Vila", "sigla": ""}
+{"codigo": 105, "nome": "Viela", "sigla": ""}
+{"codigo": 106, "nome": "Vale", "sigla": ""}
+{"codigo": 452, "nome": "Trecho", "sigla": ""}
+{"codigo": 453, "nome": "Vereda", "sigla": ""}
+{"codigo": 465, "nome": "Artéria", "sigla": ""}
+{"codigo": 468, "nome": "Elevada", "sigla": ""}
+{"codigo": 469, "nome": "Porto", "sigla": ""}
+{"codigo": 470, "nome": "Balão", "sigla": ""}
+{"codigo": 472, "nome": "Área", "sigla": ""}
+{"codigo": 473, "nome": "Jardinete", "sigla": ""}
+{"codigo": 474, "nome": "Esplanada", "sigla": ""}
+{"codigo": 478, "nome": "Descida", "sigla": ""}
+{"codigo": 479, "nome": "Circular", "sigla": ""}
+{"codigo": 480, "nome": "Unidade", "sigla": ""}
+{"codigo": 481, "nome": "Chácara", "sigla": ""}
+{"codigo": 482, "nome": "Rampa", "sigla": ""}
+{"codigo": 483, "nome": "Ponta", "sigla": ""}
+{"codigo": 485, "nome": "Condomínio", "sigla": ""}
+{"codigo": 487, "nome": "Residencial", "sigla": ""}
+{"codigo": 495, "nome": "Canal", "sigla": ""}
+{"codigo": 496, "nome": "Buraco", "sigla": ""}
+{"codigo": 497, "nome": "Módulo", "sigla": ""}
+{"codigo": 499, "nome": "Lago", "sigla": ""}
+{"codigo": 500, "nome": "Núcleo", "sigla": ""}
+{"codigo": 501, "nome": "Aeroporto", "sigla": ""}
+{"codigo": 502, "nome": "Passagem Subterrânea", "sigla": ""}
+{"codigo": 503, "nome": "Complexo Viário", "sigla": ""}
+{"codigo": 504, "nome": "Praça de Esportes", "sigla": ""}
+{"codigo": 506, "nome": "Rotatória", "sigla": ""}
+{"codigo": 507, "nome": "1ª Travessa", "sigla": ""}
+{"codigo": 508, "nome": "2ª Travessa", "sigla": ""}
+{"codigo": 509, "nome": "3ª Travessa", "sigla": ""}
+{"codigo": 510, "nome": "4ª Travessa", "sigla": ""}
+{"codigo": 511, "nome": "5ª Travessa", "sigla": ""}
+{"codigo": 512, "nome": "6ª Travessa", "sigla": ""}
+{"codigo": 513, "nome": "7ª Travessa", "sigla": ""}
+{"codigo": 514, "nome": "8ª Travessa", "sigla": ""}
+{"codigo": 515, "nome": "9ª Travessa", "sigla": ""}
+{"codigo": 516, "nome": "10ª Travessa", "sigla": ""}
+{"codigo": 517, "nome": "11ª Travessa", "sigla": ""}
+{"codigo": 518, "nome": "12ª Travessa", "sigla": ""}
+{"codigo": 519, "nome": "13ª Travessa", "sigla": ""}
+{"codigo": 520, "nome": "14ª Travessa", "sigla": ""}
+{"codigo": 521, "nome": "15ª Travessa", "sigla": ""}
+{"codigo": 522, "nome": "16ª Travessa", "sigla": ""}
+{"codigo": 523, "nome": "1º Alto", "sigla": ""}
+{"codigo": 524, "nome": "2º Alto", "sigla": ""}
+{"codigo": 525, "nome": "3º Alto", "sigla": ""}
+{"codigo": 528, "nome": "1º Beco", "sigla": ""}
+{"codigo": 529, "nome": "2º Beco", "sigla": ""}
+{"codigo": 530, "nome": "3º Beco", "sigla": ""}
+{"codigo": 533, "nome": "1ª Paralela", "sigla": ""}
+{"codigo": 534, "nome": "2ª Paralela", "sigla": ""}
+{"codigo": 535, "nome": "3ª Paralela", "sigla": ""}
+{"codigo": 536, "nome": "4ª Paralela", "sigla": ""}
+{"codigo": 538, "nome": "1ª Subida", "sigla": ""}
+{"codigo": 539, "nome": "2ª Subida", "sigla": ""}
+{"codigo": 540, "nome": "3ª Subida", "sigla": ""}
+{"codigo": 541, "nome": "4ª Subida", "sigla": ""}
+{"codigo": 542, "nome": "5ª Subida", "sigla": ""}
+{"codigo": 543, "nome": "6ª Subida", "sigla": ""}
+{"codigo": 544, "nome": "1ª Vila", "sigla": ""}
+{"codigo": 545, "nome": "2ª Vila", "sigla": ""}
+{"codigo": 546, "nome": "3ª Vila", "sigla": ""}
+{"codigo": 547, "nome": "4ª Vila", "sigla": ""}
+{"codigo": 548, "nome": "5ª Vila", "sigla": ""}
+{"codigo": 552, "nome": "1ª Rua", "sigla": ""}
+{"codigo": 553, "nome": "2ª Rua", "sigla": ""}
+{"codigo": 554, "nome": "3ª Rua", "sigla": ""}
+{"codigo": 555, "nome": "4ª Rua", "sigla": ""}
+{"codigo": 556, "nome": "5ª Rua", "sigla": ""}
+{"codigo": 557, "nome": "6ª Rua", "sigla": ""}
+{"codigo": 558, "nome": "7ª Rua", "sigla": ""}
+{"codigo": 560, "nome": "9ª Rua", "sigla": ""}
+{"codigo": 561, "nome": "10ª Rua", "sigla": ""}
+{"codigo": 562, "nome": "11ª Rua", "sigla": ""}
+{"codigo": 563, "nome": "12ª Rua", "sigla": ""}
+{"codigo": 564, "nome": "Estacionamento", "sigla": ""}
+{"codigo": 565, "nome": "Vala", "sigla": ""}
+{"codigo": 566, "nome": "Rua de Pedestre", "sigla": ""}
+{"codigo": 567, "nome": "Túnel", "sigla": ""}
+{"codigo": 569, "nome": "Rodo Anel", "sigla": ""}
+{"codigo": 570, "nome": "Travessa Particular", "sigla": ""}
+{"codigo": 571, "nome": "Calçada", "sigla": ""}
+{"codigo": 572, "nome": "Via de Acesso", "sigla": ""}
+{"codigo": 573, "nome": "Entrada Particular", "sigla": ""}
+{"codigo": 645, "nome": "Acampamento", "sigla": ""}
+{"codigo": 646, "nome": "Via Expressa", "sigla": ""}
+{"codigo": 650, "nome": "Estrada Municipal", "sigla": ""}
+{"codigo": 651, "nome": "Avenida Contorno", "sigla": ""}
+{"codigo": 653, "nome": "Rua de Ligação", "sigla": ""}
+{"codigo": 654, "nome": "Área Especial", "sigla": ""}
+{"codigo": 1001, "nome": "17ª Travessa", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1002, "nome": "18ª Travessa", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1003, "nome": "19ª Travessa", "sigla": ""}
+{"codigo": 1004, "nome": "1ª Avenida", "sigla": ""}
+{"codigo": 1005, "nome": "1ª Ladeira", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1006, "nome": "1ª Travessa da Rodovia", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1007, "nome": "20ª Travessa", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1008, "nome": "21ª Travessa", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1009, "nome": "22ª Travessa", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1010, "nome": "2ª Avenida", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1011, "nome": "2ª Ladeira", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1012, "nome": "2ª Travessa da Rodovia", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1013, "nome": "3ª Avenida", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1014, "nome": "3ª Ladeira", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1015, "nome": "4ª Avenida", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1016, "nome": "5ª Avenida", "sigla": ""}
+{"codigo": 1017, "nome": "6ª Avenida", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1018, "nome": "Acesso Local", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1019, "nome": "Anel Viário", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1020, "nome": "Antiga Estação", "sigla": ""}
+{"codigo": 1021, "nome": "Antiga Estrada", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1022, "nome": "Área Verde", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1023, "nome": "Avenida Marginal", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1024, "nome": "Avenida Marginal Direita", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1025, "nome": "Avenida Marginal Esquerda", "sigla": ""}
+{"codigo": 1026, "nome": "Avenida Marginal Norte", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1027, "nome": "Avenida Perimetral", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1028, "nome": "Blocos", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1029, "nome": "Bulevar", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1030, "nome": "Calçadão", "sigla": ""}
+{"codigo": 1031, "nome": "Caminho de Servidão", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1032, "nome": "Campus", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1033, "nome": "Ciclovia", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1034, "nome": "Comunidade", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1035, "nome": "Condomínio Residencial", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1036, "nome": "Conjunto Habitacional", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1037, "nome": "Conjunto Mutirão", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1038, "nome": "Conjunto Residencial", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1039, "nome": "Contorno", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1040, "nome": "Eixo", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1041, "nome": "Eixo Industrial", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1042, "nome": "Eixo Principal", "sigla": ""}
+{"codigo": 1043, "nome": "Entre Quadra", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1044, "nome": "Escada de Pedra", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1045, "nome": "Escadaria", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1046, "nome": "Estrada Antiga", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1047, "nome": "Estrada de Ferro", "sigla": ""}
+{"codigo": 1048, "nome": "Estrada de Ligação", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1049, "nome": "Estrada de Servidão", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1050, "nome": "Estrada Estadual", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1051, "nome": "Estrada Intermunicipal", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1052, "nome": "Estrada Nova", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1053, "nome": "Estrada Particular", "sigla": ""}
+{"codigo": 1054, "nome": "Estrada Velha", "sigla": ""}
+{"codigo": 1055, "nome": "Estrada Vicinal", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1056, "nome": "Gleba", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1057, "nome": "Jardim Residencial", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1058, "nome": "Margem", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1059, "nome": "Marginal", "sigla": ""}
+{"codigo": 1060, "nome": "Mercado", "sigla": ""}
+{"codigo": 1061, "nome": "Nova Avenida", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1062, "nome": "Núcleo Habitacional", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1063, "nome": "Núcleo Rural", "sigla": ""}
+{"codigo": 1064, "nome": "Outeiro", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1065, "nome": "Parque Municipal", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1066, "nome": "Parque Residencial", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1067, "nome": "Passagem de Pedestres", "sigla": ""}
+{"codigo": 1068, "nome": "Passeio Público", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1069, "nome": "Rótula", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1070, "nome": "Rua Particular", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1071, "nome": "Rua Principal", "sigla": ""}
+{"codigo": 1072, "nome": "Rua Projetada", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1073, "nome": "Rua Velha", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1074, "nome": "Rua Vicinal", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1075, "nome": "Ruela", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1076, "nome": "Servidão de Passagem", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1077, "nome": "Terceira Avenida", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1078, "nome": "Variante da Estrada", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1079, "nome": "Via Coletora", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1080, "nome": "Via Costeira", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1081, "nome": "Via de Pedestre", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1082, "nome": "Via de Pedestres", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1083, "nome": "Via Lateral", "sigla": ""}
+{"codigo": 1084, "nome": "Via Litoranea", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1085, "nome": "Via Local", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1086, "nome": "Via Marginal", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1087, "nome": "Via Pedestre", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1088, "nome": "Via Principal", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1089, "nome": "Zigue-Zague", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1090, "nome": "10ª Avenida", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1091, "nome": "11ª Avenida", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1092, "nome": "1º Acesso", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1093, "nome": "26ª Travessa", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1094, "nome": "2ª Via", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1095, "nome": "2º Acesso", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1096, "nome": "4º Alto", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1097, "nome": "6ª Vila", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1098, "nome": "7ª Avenida", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1099, "nome": "8ª Avenida", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1101, "nome": "9ª Avenida", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1102, "nome": "Acesso Estadual", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1103, "nome": "Alça de Acesso", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1104, "nome": "Avenida Expressa", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1105, "nome": "Beco 1", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1106, "nome": "Beco 2", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1107, "nome": "Beco 3", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1108, "nome": "Chácaras", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1109, "nome": "Colina", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1110, "nome": "Estrada Ecoturística", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1111, "nome": "Estrada Vicinal Municipal", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1112, "nome": "Orla Fluvial", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1113, "nome": "Pista Lateral", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1114, "nome": "Rodovia Municipal", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1115, "nome": "Variante", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1116, "nome": "Via Circular", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1117, "nome": "Via de Circulação", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1118, "nome": "Via Litorânea", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1119, "nome": "3º Acesso", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1120, "nome": "Transversal", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1121, "nome": "Rua Integração", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1122, "nome": "Anel", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1123, "nome": "Diagonal", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1124, "nome": "Segunda Avenida", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1125, "nome": "Rua Ferroviária", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1126, "nome": "Edifício", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1127, "nome": "Avenida Circular", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1128, "nome": "6º Beco", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1129, "nome": "5º Beco", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1130, "nome": "4º Beco", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1131, "nome": "5º Alto", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1132, "nome": "Rua Circular", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1133, "nome": "Estação Transformadora", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1134, "nome": "2ª Alameda", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1135, "nome": "Largo da Basílica", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1136, "nome": "Temporário", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1137, "nome": "Avenida Esplanada", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1138, "nome": "Contorno Viário", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1139, "nome": "Pedestre", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1140, "nome": "Avenida Industrial", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1141, "nome": "Via Estrada Municipal", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1142, "nome": "Escadão", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1143, "nome": "Acesso para Rua", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1144, "nome": "Pontilhão", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1145, "nome": "Trevo Rotatório", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1146, "nome": "Passagem Particular", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1147, "nome": "Ligação", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1148, "nome": "Pracinha", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1149, "nome": "Ferrovia", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1150, "nome": "Vicinal", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1151, "nome": "Paradouro", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1152, "nome": "Rua Transversal", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1153, "nome": "Praça e Campo", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1154, "nome": "Rodovia Vicinal", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1155, "nome": "Quintas", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1156, "nome": "Travessia", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1157, "nome": "Calçadinho", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1158, "nome": "Folha", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1159, "nome": "Via Municipal", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1160, "nome": "Avenida Norte-Sul", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1161, "nome": "Via Cultural", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1162, "nome": "Centro Comercial", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1163, "nome": "Ocupação", "sigla": "2025-04-02 13:27:15"}
+{"codigo": 1164, "nome": "Quinta Ladeira", "sigla": "2025-04-02 13:27:15"}

@@ -22,9 +22,8 @@ CREATE TABLE IF NOT EXISTS clientes_api (
 
 CREATE INDEX IF NOT EXISTS idx_clientes_api_api_key ON clientes_api (api_key);
 
--- Chave padrão de desenvolvimento — troque em produção!
 INSERT INTO clientes_api (nome, api_key, ativo)
-VALUES ('admin', 'changeme-dev-key', 1)
+VALUES ('admin', 'mude-aqui-para-sua-chave', 1)
 ON CONFLICT (api_key) DO NOTHING;
 
 -- ============================================
